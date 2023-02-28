@@ -22,3 +22,7 @@ Vous rendez compte que depuis plusieurs décennies la Terre se réchauffe de plu
 -Et de sensibiliser les citoyens au développements durable
 
 Enfin, faites vite ! Vous avez 50 ans (de 2000 à 2050) pour relever le défi, car c'est l'avenir qui est entre vos mains !
+
+## Et pour le développeur ?
+
+CilmaTown à été développé grâce à [GDevelop](https://gdevelop.io/), un constructeur de jeu en no-code et open-source. ClimaTown est distribué sous licence [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0), ce qui définit le jeu comme open-source !
